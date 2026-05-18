@@ -8,7 +8,6 @@
 
 Projeto desenvolvido como desafio da DIO com foco na utilização de Inteligência Artificial aplicada aos estudos, curadoria de conteúdo e organização do conhecimento em Data Analytics.
 
----
 # 📚 Sumário
 
 - [🎯 Objetivos do Projeto](#-objetivos-do-projeto)
