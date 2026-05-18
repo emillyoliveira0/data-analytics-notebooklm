@@ -51,7 +51,7 @@ data-analytics-notebooklm/
 │
 └── README.md
 ```
----
+
 # 🛠️ Tecnologias e Ferramentas
 
 Este projeto utilizou as seguintes ferramentas e tecnologias:
@@ -66,7 +66,7 @@ Este projeto utilizou as seguintes ferramentas e tecnologias:
 - Excel
 - Engenharia de Prompts
 - Data Analytics
----
+
 # 📚 Curadoria de Fontes
 
 As fontes utilizadas foram selecionadas com foco em conteúdos confiáveis e relacionados à área de Data Analytics.
@@ -80,7 +80,7 @@ Algumas das principais referências utilizadas:
 - Conteúdos relacionados a Business Intelligence e análise de dados
 
 As fontes foram adicionadas ao NotebookLM para apoio aos estudos, geração de resumos e testes de prompts.
----
+
 # 🤖 Utilização do NotebookLM
 
 O NotebookLM foi utilizado como ferramenta de apoio aos estudos e organização do conhecimento.
