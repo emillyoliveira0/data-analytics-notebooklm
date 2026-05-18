@@ -22,7 +22,6 @@ Projeto desenvolvido como desafio da DIO com foco na utilização de Inteligênc
 - [🚀 Diferenciais do Projeto](#-diferenciais-do-projeto)
 - [📌 Conclusão](#-conclusão)
 
----
 # 🎯 Objetivos do Projeto
 
 - Explorar o uso do NotebookLM na área de Data Analytics
