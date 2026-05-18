@@ -120,3 +120,44 @@ O projeto demonstrou que:
 - Data Analytics possui forte relevância no mercado atual
 
 Além disso, o desenvolvimento da documentação contribuiu para fortalecer habilidades relacionadas à comunicação técnica e construção de portfólio profissional.
+
+---
+
+# 🧪 Testes Práticos no NotebookLM
+
+Durante os testes realizados no NotebookLM foi possível observar diferenças significativas entre prompts genéricos, prompts refinados e prompts focados em síntese.
+
+## Prompt Genérico
+Gerou respostas:
+- claras
+- objetivas
+- mais introdutórias
+
+---
+
+## Prompt Refinado
+Apresentou respostas:
+- mais completas
+- mais detalhadas
+- com maior profundidade técnica
+- melhor contextualização
+
+---
+
+## Prompt de Síntese
+Demonstrou boa capacidade de:
+- resumir conteúdos
+- conectar tópicos
+- organizar informações
+- apresentar explicações simples e fáceis de entender
+
+---
+
+# 📌 Principal Percepção
+
+Os testes demonstraram que o NotebookLM responde de maneira mais eficiente quando os prompts possuem:
+- contexto claro
+- objetivo definido
+- direcionamento específico
+
+Além disso, prompts voltados para síntese apresentaram resultados organizados e úteis para revisão de estudos.
