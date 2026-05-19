@@ -96,6 +96,12 @@ Os testes demonstraram que prompts mais específicos geram respostas:
 - mais contextualizadas
 - mais detalhadas
 
+## 📸 NotebookLM em Utilização
+
+### Notebook criado e organização das fontes
+
+![NotebookLM](assets/notebooklm-home.png)
+
 # 🧩 Engenharia de Prompts
 
 Durante o projeto foram realizados testes práticos utilizando diferentes tipos de prompts no NotebookLM.
@@ -143,6 +149,23 @@ Resultado:
 ```text
 Resuma os principais conceitos presentes nas fontes adicionadas sobre SQL, Power BI e KPIs.
 ```
+## 📸 Comparação de Prompts
+
+### Prompt genérico
+
+![Prompt Genérico](assets/prompt-generico.png)
+
+---
+
+### Prompt refinado
+
+![Prompt Refinado](assets/prompt-refinado.png)
+
+---
+
+### Diferença nas respostas geradas
+
+![Diferença nas Respostas](assets/diferenca-respostas.png)
 
 Resultado:
 - síntese objetiva
