@@ -8,9 +8,12 @@
 
 Projeto desenvolvido como desafio da DIO com foco na utilização de Inteligência Artificial aplicada aos estudos, curadoria de conteúdo e organização do conhecimento em Data Analytics.
 
+---
+
 # 📚 Sumário
 
 - [🎯 Objetivos do Projeto](#-objetivos-do-projeto)
+- [🔗 Acesso Rápido](#-acesso-rápido)
 - [🛠️ Tecnologias e Ferramentas](#️-tecnologias-e-ferramentas)
 - [📂 Estrutura do Repositório](#-estrutura-do-repositório)
 - [📚 Curadoria de Fontes](#-curadoria-de-fontes)
@@ -18,9 +21,12 @@ Projeto desenvolvido como desafio da DIO com foco na utilização de Inteligênc
 - [🧩 Engenharia de Prompts](#-engenharia-de-prompts)
 - [📘 Miniguia de Estudos](#-miniguia-de-estudos)
 - [📊 Casos Práticos](#-casos-práticos)
+- [▶️ Como Utilizar o Projeto](#️-como-utilizar-o-projeto)
 - [📈 Principais Aprendizados](#-principais-aprendizados)
 - [🚀 Diferenciais do Projeto](#-diferenciais-do-projeto)
 - [📌 Conclusão](#-conclusão)
+
+---
 
 # 🎯 Objetivos do Projeto
 
@@ -31,24 +37,43 @@ Projeto desenvolvido como desafio da DIO com foco na utilização de Inteligênc
 - Organizar documentação técnica de forma profissional
 - Construir um repositório com padrão de portfólio para tecnologia
 
+---
+
+# 🔗 Acesso Rápido
+
+📘 [Mini Guia de Estudos](docs/miniguia/miniguia-data-analytics.md)
+
+🧩 [Prompts Reutilizáveis](docs/prompts/prompts-reutilizaveis.md)
+
+📊 [Caso Prático — Análise de Vendas](docs/casos-praticos/analise-vendas.md)
+
+📚 [Glossário de Data Analytics](docs/glossario/glossario-data-analytics.md)
+
+---
+
 # 📂 Estrutura do Repositório
 
 ```bash
 data-analytics-notebooklm/
 │
+├── assets/
+│
 ├── docs/
-│   ├── prompts/
+│   ├── casos-praticos/
 │   ├── estudos/
 │   ├── glossario/
 │   ├── insights/
+│   ├── miniguia/
+│   ├── prompts/
 │   └── referencias/
 │
 ├── notebooklm/
 │
-├── assets/
-│
+├── .gitignore
 └── README.md
 ```
+
+---
 
 # 🛠️ Tecnologias e Ferramentas
 
@@ -65,6 +90,8 @@ Este projeto utilizou as seguintes ferramentas e tecnologias:
 - Engenharia de Prompts
 - Data Analytics
 
+---
+
 # 📚 Curadoria de Fontes
 
 As fontes utilizadas foram selecionadas com foco em conteúdos confiáveis e relacionados à área de Data Analytics.
@@ -78,6 +105,8 @@ Algumas das principais referências utilizadas:
 - Conteúdos relacionados a Business Intelligence e análise de dados
 
 As fontes foram adicionadas ao NotebookLM para apoio aos estudos, geração de resumos e testes de prompts.
+
+---
 
 # 🤖 Utilização do NotebookLM
 
@@ -96,11 +125,15 @@ Os testes demonstraram que prompts mais específicos geram respostas:
 - mais contextualizadas
 - mais detalhadas
 
+---
+
 ## 📸 NotebookLM em Utilização
 
 ### Notebook criado e organização das fontes
 
 ![NotebookLM](assets/notebooklm-home.png)
+
+---
 
 # 🧩 Engenharia de Prompts
 
@@ -149,6 +182,14 @@ Resultado:
 ```text
 Resuma os principais conceitos presentes nas fontes adicionadas sobre SQL, Power BI e KPIs.
 ```
+
+Resultado:
+- síntese objetiva
+- organização clara
+- facilidade para revisão de estudos
+
+---
+
 ## 📸 Comparação de Prompts
 
 ### Prompt genérico
@@ -167,11 +208,6 @@ Resuma os principais conceitos presentes nas fontes adicionadas sobre SQL, Power
 
 ![Diferença nas Respostas](assets/diferenca-respostas.png)
 
-Resultado:
-- síntese objetiva
-- organização clara
-- facilidade para revisão de estudos
-
 ---
 
 # 🧠 Principais Percepções
@@ -189,6 +225,8 @@ Além disso, foi possível perceber a importância da engenharia de prompts para
 - precisão das informações
 - eficiência do aprendizado
 
+---
+
 # 📘 Miniguia de Estudos
 
 O projeto também inclui um mini guia consolidado contendo:
@@ -204,6 +242,8 @@ docs/miniguia/miniguia-data-analytics.md
 ```
 
 O miniguia reúne os principais aprendizados obtidos durante os estudos utilizando o NotebookLM como ferramenta de apoio.
+
+---
 
 # 📊 Casos Práticos
 
@@ -238,6 +278,19 @@ Além da interpretação dos dados, o NotebookLM foi utilizado para:
 docs/casos-praticos/analise-vendas.md
 ```
 
+---
+
+# ▶️ Como Utilizar o Projeto
+
+1. Acesse os conteúdos disponíveis na pasta `docs`
+2. Explore os prompts documentados
+3. Consulte o mini guia de estudos
+4. Analise os casos práticos
+5. Utilize os prompts reutilizáveis para revisão de conteúdos
+6. Explore os insights e aprendizados documentados
+
+---
+
 # 📈 Principais Aprendizados
 
 Durante o desenvolvimento deste projeto foi possível compreender:
@@ -260,6 +313,8 @@ O projeto contribuiu para desenvolver:
 - documentação técnica
 - visão inicial sobre Data Analytics
 
+---
+
 # 🚀 Diferenciais do Projeto
 
 Este projeto foi estruturado com foco em:
@@ -281,6 +336,8 @@ O projeto também foi desenvolvido considerando boas práticas de:
 - estruturação de portfólio
 - clareza visual
 - organização de conteúdo técnico
+
+---
 
 # 📌 Conclusão
 
